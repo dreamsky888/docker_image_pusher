@@ -3,3 +3,4 @@ redis:5
 mysql:8.4.2
 emqx/emqx:4.4.3
 apache/rocketmq:5.3.1
+rabbitmq:3.9.15-management

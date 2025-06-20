@@ -5,3 +5,4 @@ emqx/emqx:4.4.3
 apache/rocketmq:5.3.1
 rabbitmq:3.9.15-management
 mysql:8.4.0-oraclelinux8
+nacos/nacos-server:v2.5.1

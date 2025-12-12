@@ -7,3 +7,4 @@ rabbitmq:3.9.15-management
 mysql:8.4.0-oraclelinux8
 nacos/nacos-server:v2.5.1
 nginx:1.21.6
+apachepulsar/pulsar:2.11.2

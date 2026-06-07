@@ -9,3 +9,9 @@ nacos/nacos-server:v2.5.1
 nginx:1.21.6
 apachepulsar/pulsar:2.11.2
 emqx/emqtt-bench:latest
+ghcr.io/siderolabs/kubelet:v1.36.1
+ghcr.io/siderolabs/installer:v1.13.3
+registry.k8s.io/kube-apiserver:v1.36.1
+registry.k8s.io/kube-controller-manager:v1.36.1
+registry.k8s.io/kube-proxy:v1.36.1
+registry.k8s.io/kube-scheduler:v1.36.1
